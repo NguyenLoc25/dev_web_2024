@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+}
+
+.myweb{
+    color: red;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.mypicture{
+    text-align: center;
+    background-image: inherit;
+}
